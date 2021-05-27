@@ -1,0 +1,11 @@
+C:\Users\Студент\source\repos\Pract8BurKla\Pract8BurKla\bin\Debug\netcoreapp3.0\Pract8BurKla.exe
+C:\Users\Студент\source\repos\Pract8BurKla\Pract8BurKla\bin\Debug\netcoreapp3.0\Pract8BurKla.deps.json
+C:\Users\Студент\source\repos\Pract8BurKla\Pract8BurKla\bin\Debug\netcoreapp3.0\Pract8BurKla.runtimeconfig.json
+C:\Users\Студент\source\repos\Pract8BurKla\Pract8BurKla\bin\Debug\netcoreapp3.0\Pract8BurKla.runtimeconfig.dev.json
+C:\Users\Студент\source\repos\Pract8BurKla\Pract8BurKla\bin\Debug\netcoreapp3.0\Pract8BurKla.dll
+C:\Users\Студент\source\repos\Pract8BurKla\Pract8BurKla\bin\Debug\netcoreapp3.0\Pract8BurKla.pdb
+C:\Users\Студент\source\repos\Pract8BurKla\Pract8BurKla\obj\Debug\netcoreapp3.0\Pract8BurKla.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\Pract8BurKla\Pract8BurKla\obj\Debug\netcoreapp3.0\Pract8BurKla.AssemblyInfoInputs.cache
+C:\Users\Студент\source\repos\Pract8BurKla\Pract8BurKla\obj\Debug\netcoreapp3.0\Pract8BurKla.AssemblyInfo.cs
+C:\Users\Студент\source\repos\Pract8BurKla\Pract8BurKla\obj\Debug\netcoreapp3.0\Pract8BurKla.dll
+C:\Users\Студент\source\repos\Pract8BurKla\Pract8BurKla\obj\Debug\netcoreapp3.0\Pract8BurKla.pdb
